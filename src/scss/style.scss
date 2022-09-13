@@ -1,17 +1,9 @@
 body {
-  background-color: black;
-  span {
-    color: red;
-  }
-  background: url("@img/images.png");
+  font-size: 40px;
+  background: grey;
 }
 @media (max-width: 768px) {
   span {
     font-size: 20px;
-  }
-}
-@media (max-width: 768px) {
-  span {
-    background: blue;
   }
 }
